@@ -23,7 +23,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Xamarin2021Test</string>
 	<key>CFBundleIdentifier</key>
-	<string>jp.ac.jc21.t.yoshizawa.Xamarin2021Test</string>
+	<string>jp.jc21.t.yoshizawa.Xamarin2021Test</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
 	<key>UILaunchStoryboardName</key>
