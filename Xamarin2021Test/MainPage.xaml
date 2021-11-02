@@ -24,6 +24,10 @@
             <Label Text="The Padding property can be set to specify the distance between the StackLayout and its children." />
             <Label Text="The Spacing property can be set to specify the distance between views in the StackLayout." />
         </StackLayout>
+        <StackLayout>
+            <Button Text="Click Me" />
+
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
